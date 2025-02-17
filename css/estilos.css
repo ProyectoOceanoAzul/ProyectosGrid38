@@ -196,6 +196,10 @@ div.grip__grupo div.box {
 div.grip__grupo div.box__1{
     background-color: var(--colorEstilo53);
 
+    background-image: url("../imagenes/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: top right 50px;
+	
     grid-column: 1/3;
     grid-row: 1;
 }
